@@ -1,0 +1,4 @@
+#Tue Jun 13 22:24:31 BRT 2017
+base.0=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

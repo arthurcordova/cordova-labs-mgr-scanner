@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/res/merged/debug/layout/activity_android_camera.xml",
+        "source": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/src/main/res/layout/activity_android_camera.xml"
+    },
+    {
+        "merged": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/res/merged/debug/layout/control.xml",
+        "source": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/src/main/res/layout/control.xml"
+    },
+    {
+        "merged": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/res/merged/debug/layout/activity_recognize.xml",
+        "source": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/src/main/res/layout/activity_recognize.xml"
+    },
+    {
+        "merged": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/res/merged/debug/layout/background.xml",
+        "source": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/src/main/res/layout/background.xml"
+    }
+]

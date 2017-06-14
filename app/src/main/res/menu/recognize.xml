@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.compa.recognizesheet.RecognizeActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_settings"/>
+
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/red"
+            android:title="red"/>
+        <item
+            android:id="@+id/blue"
+            android:title="blue"/>
+    </group>
+
+</menu>

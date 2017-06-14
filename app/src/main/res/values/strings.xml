@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sheet Recognizer</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_recognize">Recognizer</string>
+    <string name="text_btn_exit">Exit</string>
+    <string name="text_btn_camera">Camera</string>
+    <string name="text_btn_submit">Submit</string>
+    <string name="text_btn_login">Login</string>
+    <string name="text_hint_id">Student ID</string>
+    <string name="text_hint_tp">TP</string>
+    <string name="text_hint_password">Enter password</string>
+    <string name="text_lb_login_info">Login Info</string>
+    <string name="text_hint_username">Enter username</string>
+    <string name="text_hint_number_answer">Number of questions</string>
+    <string name="text_number_answer_default">100</string>
+    <string name="text_processing_data">Processing data...</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_android_camera">AndroidCamera</string>
+
+    <!-- Settings -->
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="threshold_array">
+        <item>70</item>
+        <item>75</item>
+        <item>80</item>
+        <item>85</item>
+        <item>90</item>
+        <item>95</item>
+        <item>100</item>
+        <item>105</item>
+        <item>110</item>
+        <item>115</item>
+        <item>120</item>
+        <item>125</item>
+    </string-array>
+    
+</resources>

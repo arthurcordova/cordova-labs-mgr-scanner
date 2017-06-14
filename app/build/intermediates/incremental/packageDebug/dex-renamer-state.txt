@@ -1,0 +1,7 @@
+#Tue Jun 13 22:24:32 BRT 2017
+base.0=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_342decf2b4f0b86aefee7dd3dca533c3988dec53
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38f6ce27b6b3f4c741ca0bcd52d61b20abbfdc66/classes.dex
+base.1=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38f6ce27b6b3f4c741ca0bcd52d61b20abbfdc66
+file.0=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_342decf2b4f0b86aefee7dd3dca533c3988dec53/classes.dex

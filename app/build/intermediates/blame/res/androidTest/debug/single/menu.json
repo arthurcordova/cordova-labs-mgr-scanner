@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/res/merged/androidTest/debug/menu/login.xml",
+        "source": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/bundles/debug/res/menu/login.xml"
+    },
+    {
+        "merged": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/res/merged/androidTest/debug/menu/android_camera.xml",
+        "source": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/bundles/debug/res/menu/android_camera.xml"
+    },
+    {
+        "merged": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/res/merged/androidTest/debug/menu/recognize.xml",
+        "source": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/bundles/debug/res/menu/recognize.xml"
+    }
+]

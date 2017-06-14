@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.compa.recognizesheet.LoginActivity"
+    android:background="@android:color/holo_blue_dark" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_dark"
+        android:orientation="vertical"
+        android:padding="10dip" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dip"
+            android:text="@string/text_lb_login_info"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/usernameText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/text_hint_username" />
+
+        <EditText
+            android:id="@+id/passwordText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/text_hint_password"
+            android:inputType="textPassword" />
+
+		<EditText
+            android:id="@+id/numberAnswerText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/text_hint_number_answer"
+            android:inputType="number"
+            android:text="@string/text_number_answer_default"/>
+		
+		<Spinner
+		    android:id="@+id/thresholdText"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:entries="@array/threshold_array" />
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="fill_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="2dip"
+            android:background="#fff"
+            android:text="@string/text_btn_login"
+            android:textColor="#ff6347" />
+    </LinearLayout>
+
+</RelativeLayout>

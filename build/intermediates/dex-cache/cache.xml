@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/acstapassoli/Mobile/Android/recognizesheet1/app/libs/opencv library - 2.4.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75aa62e04b27a2af2e694994fd55a509d7b58145">
+        <dex dex="/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/2/opencv library - 2.4.11_16facf2496894ad74abe2d540d9f6a573bb4ca48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f4bbdd96f1d4d3433ba34abaddd7daa8a6bf765">
+        <dex dex="/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_342decf2b4f0b86aefee7dd3dca533c3988dec53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38f6ce27b6b3f4c741ca0bcd52d61b20abbfdc66/classes.dex" />
+    </item>
+
+</items>

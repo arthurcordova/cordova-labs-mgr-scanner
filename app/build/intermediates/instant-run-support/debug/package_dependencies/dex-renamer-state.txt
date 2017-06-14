@@ -1,0 +1,25 @@
+#Tue Jun 13 22:24:30 BRT 2017
+renamed.7=classes2.dex
+renamed.6=classes.dex
+renamed.5=classes5.dex
+renamed.4=classes4.dex
+renamed.3=classes6.dex
+renamed.2=classes8.dex
+renamed.1=classes7.dex
+renamed.0=classes3.dex
+base.7=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29ea53760ac1a5e5b8d89a383063b3c58c3f1da8
+base.6=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20864e34b443ed1b7eb2460a615d86fb9ff741dc
+base.5=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab79e4edefd6c5d4de70dbabb86a6bfc3f3c0463
+base.4=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9e657a6934264471a7d965b29373abd701db439
+base.3=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae2461a7b77df9d0ba9473a5685f78a7b57978a6
+base.2=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/2/opencv library - 2.4.11_16facf2496894ad74abe2d540d9f6a573bb4ca48
+base.1=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_11b1c408efb019893a3c16183dddfa03f7397558
+base.0=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cdce5fce56a63c9fafb5d3fa776ed2df5c756a9
+file.7=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29ea53760ac1a5e5b8d89a383063b3c58c3f1da8/classes.dex
+file.6=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20864e34b443ed1b7eb2460a615d86fb9ff741dc/classes.dex
+file.5=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab79e4edefd6c5d4de70dbabb86a6bfc3f3c0463/classes.dex
+file.4=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9e657a6934264471a7d965b29373abd701db439/classes.dex
+file.3=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae2461a7b77df9d0ba9473a5685f78a7b57978a6/classes.dex
+file.2=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/2/opencv library - 2.4.11_16facf2496894ad74abe2d540d9f6a573bb4ca48/classes.dex
+file.1=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_11b1c408efb019893a3c16183dddfa03f7397558/classes.dex
+file.0=/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cdce5fce56a63c9fafb5d3fa776ed2df5c756a9/classes.dex

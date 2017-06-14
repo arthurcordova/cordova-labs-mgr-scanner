@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/camera_img.png",
+        "source": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/bundles/debug/res/drawable-hdpi-v4/camera_img.png"
+    },
+    {
+        "merged": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/camera_btn.png",
+        "source": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/bundles/debug/res/drawable-hdpi-v4/camera_btn.png"
+    },
+    {
+        "merged": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/background.png",
+        "source": "/Users/acstapassoli/Mobile/Android/recognizesheet1/app/build/intermediates/bundles/debug/res/drawable-hdpi-v4/background.png"
+    }
+]
